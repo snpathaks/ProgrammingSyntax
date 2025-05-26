@@ -1,4 +1,4 @@
-# 🌟 ALLProLang - Programming Language Syntax Reference
+# 🌟  Programming Language Syntax Reference
 
 > **A beautiful, interactive web application for exploring programming language syntax**
 
